@@ -1,0 +1,145 @@
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\Vlc.DotNet.Core.dll
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\Vlc.DotNet.Core.Interops.dll
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\Vlc.DotNet.Forms.dll
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\Interop.AXVLC.dll
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\AxInterop.AXVLC.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\Interop.AXVLC.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\AxInterop.AXVLC.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\ハッピーエディター.exe.config
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\ハッピーエディター.exe
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\ハッピーエディター.pdb
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\ar\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\de\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\es\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\fr\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\ja\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\ru\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\bin\Debug\zh\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Deley.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.ar.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.de.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.es.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.fr.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.ja.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.ru.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.zh.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.ja.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.ar.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.de.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.es.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.fr.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.ru.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.zh.resources
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\ar\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\de\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\es\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\fr\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\ja\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\ru\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\zh\ハッピーエディター.resources.dll
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\ハッピーエディター.exe
+D:\C#\subtitel\WindowsFormsApp2\obj\Debug\ハッピーエディター.pdb
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\ハッピーエディター.exe.config
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\ハッピーエディター.exe
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\ハッピーエディター.pdb
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\ar\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\de\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\es\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\fr\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\ja\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\ru\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\zh\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\Interop.AXVLC.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\Interop.AXVLC.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Deley.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.ar.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.de.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.es.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.fr.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.ja.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.ru.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.zh.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.ja.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.ar.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.de.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.es.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.fr.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.ru.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.zh.resources
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\ar\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\de\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\es\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\fr\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\ja\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\ru\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\zh\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\ハッピーエディター.exe
+C:\Users\kaito\Desktop\Happy Editor\subtitle\WindowsFormsApp2\obj\Debug\ハッピーエディター.pdb
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\ハッピーエディター.exe.config
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\ハッピーエディター.exe
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\ハッピーエディター.pdb
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\ar\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\de\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\es\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\fr\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\ja\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\ru\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\zh\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\Interop.AXVLC.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\Interop.AXVLC.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Deley.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.ar.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.de.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.es.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.fr.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.ja.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.ru.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.zh.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.ja.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.ar.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.de.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.es.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.fr.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.ru.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.zh.resources
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\ar\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\de\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\es\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\fr\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\ja\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\ru\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\zh\ハッピーエディター.resources.dll
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\ハッピーエディター.exe
+C:\Users\kaito\Desktop\ハッピーエディター\subtitle\WindowsFormsApp2\obj\Debug\ハッピーエディター.pdb

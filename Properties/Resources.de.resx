@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="action" xml:space="preserve">
+    <value>Aktion</value>
+    <comment>Action</comment>
+  </data>
+  <data name="add" xml:space="preserve">
+    <value>hinzufügen</value>
+    <comment>add</comment>
+  </data>
+  <data name="add2" xml:space="preserve">
+    <value>Oben hinzufügen</value>
+    <comment>Add above</comment>
+  </data>
+  <data name="add3" xml:space="preserve">
+    <value>Unten hinzufügen</value>
+    <comment>Add below</comment>
+  </data>
+  <data name="all" xml:space="preserve">
+    <value>Alle Dateien</value>
+    <comment>All files</comment>
+  </data>
+  <data name="ar" xml:space="preserve">
+    <value>Arabisch</value>
+    <comment>Arabic</comment>
+  </data>
+  <data name="assignment" xml:space="preserve">
+    <value>Tastenbelegung</value>
+    <comment>Key assignments</comment>
+  </data>
+  <data name="Backward" xml:space="preserve">
+    <value>Rückwärts springen</value>
+    <comment>Jump Backward</comment>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Absagen</value>
+  </data>
+  <data name="cue" xml:space="preserve">
+    <value>Stichwort eingeben</value>
+    <comment>Enter cue</comment>
+  </data>
+  <data name="de" xml:space="preserve">
+    <value>Deutsch</value>
+    <comment>German</comment>
+  </data>
+  <data name="delete" xml:space="preserve">
+    <value>Löschen</value>
+    <comment>Delete</comment>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Bearbeiten(&amp;E)</value>
+    <comment>Edit(&amp;E)</comment>
+  </data>
+  <data name="Edit1" xml:space="preserve">
+    <value>Einstellungen(&amp;S)</value>
+    <comment>Settings(&amp;S)</comment>
+  </data>
+  <data name="edit2" xml:space="preserve">
+    <value>Bearbeiten</value>
+    <comment>Edit</comment>
+  </data>
+  <data name="en" xml:space="preserve">
+    <value>Englisch</value>
+    <comment>English</comment>
+  </data>
+  <data name="endtime" xml:space="preserve">
+    <value>Endzeit</value>
+    <comment>End time</comment>
+  </data>
+  <data name="error" xml:space="preserve">
+    <value>Fehler</value>
+    <comment>Error</comment>
+  </data>
+  <data name="es" xml:space="preserve">
+    <value>Spanisch</value>
+    <comment>Spanish</comment>
+  </data>
+  <data name="failed" xml:space="preserve">
+    <value>Fehler beim Schreiben der Datei</value>
+    <comment>Failed to write file</comment>
+  </data>
+  <data name="failed2" xml:space="preserve">
+    <value>Untertitel konnten nicht gelesen werden</value>
+    <comment>Failed to read subtitles</comment>
+  </data>
+  <data name="failed3" xml:space="preserve">
+    <value>Falscher Artikelwert</value>
+    <comment>Invalid value</comment>
+  </data>
+  <data name="failed4" xml:space="preserve">
+    <value>Startzeitwerte außerhalb der Reihenfolge</value>
+  </data>
+  <data name="failed5" xml:space="preserve">
+    <value>Die Startzeit muss vor der Endzeit liegen</value>
+  </data>
+  <data name="file" xml:space="preserve">
+    <value>Datei(&amp;F)</value>
+    <comment>File(&amp;F)</comment>
+  </data>
+  <data name="fix" xml:space="preserve">
+    <value>Untertitel behoben(&amp;E)</value>
+    <comment>Subtitle fix(&amp;E)</comment>
+  </data>
+  <data name="fix2" xml:space="preserve">
+    <value>Untertitel korrigieren</value>
+  </data>
+  <data name="forward" xml:space="preserve">
+    <value>Vorwärts springen</value>
+    <comment>Jump forward</comment>
+  </data>
+  <data name="fr" xml:space="preserve">
+    <value>Französisch</value>
+    <comment>French</comment>
+  </data>
+  <data name="help" xml:space="preserve">
+    <value>Hilfe(&amp;H)</value>
+  </data>
+  <data name="ja" xml:space="preserve">
+    <value>japanisch</value>
+    <comment>Japanese</comment>
+  </data>
+  <data name="key" xml:space="preserve">
+    <value>Keys
+Schlüssel</value>
+    <comment>Keys</comment>
+  </data>
+  <data name="language" xml:space="preserve">
+    <value>Sprache(Language)(&amp;L)</value>
+    <comment>Language(&amp;L)</comment>
+  </data>
+  <data name="load" xml:space="preserve">
+    <value>Text in eine neue Zeile laden</value>
+    <comment>Load text in a new line</comment>
+  </data>
+  <data name="mode" xml:space="preserve">
+    <value>Modus(&amp;M)</value>
+    <comment>Mode(&amp;M)</comment>
+  </data>
+  <data name="mode1" xml:space="preserve">
+    <value>Start→Ende→Ende</value>
+    <comment>Start→End→End</comment>
+  </data>
+  <data name="mode2" xml:space="preserve">
+    <value>Start→Ende→Start</value>
+    <comment>Start→End→Start</comment>
+  </data>
+  <data name="movie" xml:space="preserve">
+    <value>Filmdateien</value>
+    <comment>Movie files</comment>
+  </data>
+  <data name="ms" xml:space="preserve">
+    <value>Millisekunde</value>
+    <comment>ms</comment>
+  </data>
+  <data name="music" xml:space="preserve">
+    <value>Musikdateien</value>
+    <comment>Music files</comment>
+  </data>
+  <data name="ok" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="OneLineModeDisEnable" xml:space="preserve">
+    <value>deaktivieren</value>
+  </data>
+  <data name="OneLineModeEnable" xml:space="preserve">
+    <value>Ermöglichen</value>
+  </data>
+  <data name="other" xml:space="preserve">
+    <value>Sonstiges</value>
+    <comment>Other</comment>
+  </data>
+  <data name="overwrite" xml:space="preserve">
+    <value>Untertitel sind bereits vorhanden.
+Überschreiben und speichern?</value>
+  </data>
+  <data name="pause" xml:space="preserve">
+    <value>Pause</value>
+    <comment>Pause</comment>
+  </data>
+  <data name="redo" xml:space="preserve">
+    <value>Wiederholen</value>
+    <comment>Redo</comment>
+  </data>
+  <data name="rewind" xml:space="preserve">
+    <value>Zurückspulen der Startzeit (Millisekunde)</value>
+    <comment>Amount of start time rewind (ms)</comment>
+  </data>
+  <data name="ru" xml:space="preserve">
+    <value>Russisch</value>
+    <comment>Russian</comment>
+  </data>
+  <data name="save" xml:space="preserve">
+    <value>Speichern(&amp;S)</value>
+    <comment>Save(&amp;S)</comment>
+  </data>
+  <data name="save1" xml:space="preserve">
+    <value>Ihre Änderungen wurden nicht gespeichert, sind Sie sicher?</value>
+  </data>
+  <data name="second" xml:space="preserve">
+    <value>zweite</value>
+    <comment>sec</comment>
+  </data>
+  <data name="seek" xml:space="preserve">
+    <value>Suche fehlgeschlagen</value>
+    <comment>Failed to seek</comment>
+  </data>
+  <data name="seek1" xml:space="preserve">
+    <value>zu suchender Betrag (Millisekunde)</value>
+    <comment>amount to seek (ms)</comment>
+  </data>
+  <data name="setting" xml:space="preserve">
+    <value>Einstellung</value>
+    <comment>Setting</comment>
+  </data>
+  <data name="starttime" xml:space="preserve">
+    <value>Startzeit</value>
+    <comment>Start time</comment>
+  </data>
+  <data name="subtitle" xml:space="preserve">
+    <value>Untertitel öffnen(&amp;T)</value>
+    <comment>Open Subtitle(&amp;T)</comment>
+  </data>
+  <data name="subtitle1" xml:space="preserve">
+    <value>Untertitel</value>
+    <comment>Subtitle</comment>
+  </data>
+  <data name="subtitlefile" xml:space="preserve">
+    <value>Untertiteldateien</value>
+    <comment>Subtitle files</comment>
+  </data>
+  <data name="text" xml:space="preserve">
+    <value>Glücklicher Redakteur</value>
+    <comment>Happy Editor</comment>
+  </data>
+  <data name="textboxerror" xml:space="preserve">
+    <value>In das Textfeld wird nichts geschrieben</value>
+  </data>
+  <data name="undo" xml:space="preserve">
+    <value>Rückgängig machen</value>
+    <comment>Undo</comment>
+  </data>
+  <data name="value" xml:space="preserve">
+    <value>Wert</value>
+    <comment>value</comment>
+  </data>
+  <data name="video" xml:space="preserve">
+    <value>Videos öffnen(&amp;F)</value>
+    <comment>Open video(&amp;F)</comment>
+  </data>
+  <data name="videofailed" xml:space="preserve">
+    <value>Video wird nicht geladen</value>
+    <comment>Video is not loaded.</comment>
+  </data>
+  <data name="zh" xml:space="preserve">
+    <value>Chinesisch</value>
+    <comment>Chinese</comment>
+  </data>
+</root>
